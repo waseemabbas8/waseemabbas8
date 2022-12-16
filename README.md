@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Waseem Abbas</h1>
 <h3 align="center">A passionate Android | Flutter developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Turning Point](https://play.google.com/store/apps/details?id=com.turningpoint.official)
+- 🔭 I’m currently working as mobile app developer and Kotlin backend developer
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **KMP(Kotlin Multiplateform)**
 
 - 👨‍💻 All of my projects are available at [https://waseemabbas8.github.io/My-Resume/](https://waseemabbas8.github.io/My-Resume/)
 
-- 💬 Ask me about **Android app development**
+- 💬 Ask me about **Mobile app development**
 
 - 📫 How to reach me **engr.waseemabbas8@gmail.com**
 
