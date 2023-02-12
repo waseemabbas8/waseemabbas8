@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **KMP(Kotlin Multiplateform)**
 
-- 👨‍💻 All of my projects are available at [https://waseemabbas8.github.io/My-Resume/](https://waseemabbas8.github.io/My-Resume/)
+- 👨‍💻 All of my projects are available at [waseemabbas.com](https://waseemabbas.com/)
 
 - 💬 Ask me about **Mobile app development**
 
 - 📫 How to reach me **engr.waseemabbas8@gmail.com**
 
-- 📄 Know about my experiences [https://waseemabbas8.github.io/My-Resume/](https://waseemabbas8.github.io/My-Resume/)
+- 📄 Know about my experiences [waseemabbas.com](https://waseemabbas.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
