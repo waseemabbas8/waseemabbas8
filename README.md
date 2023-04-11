@@ -43,7 +43,8 @@ A results-driven Software Engineer who can think “out of the box”. Love crea
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
+
+## GitHub Stats
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waseemabbas8&show_icons=true&locale=en" alt="waseemabbas8" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waseemabbas8&" alt="waseemabbas8" />
 </p>
